@@ -1,1 +1,1 @@
-​
+Brute Force -> O(n^2) TC ,O(n) SC
